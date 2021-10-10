@@ -1,0 +1,13 @@
+{
+	"homepage": "https://www.google.com/intl/zh-CN_ALL/drive/",
+	"url":"https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe#/dl.7z",
+	"version": "version",
+	"hash": "8b63f20ee6df4e02681c494aad8fd8f1c61885cc82478ab909ed57650a5f8b67",
+	"bin": "GoogleDriveFS.exe",
+	"shortcuts": [
+		[	
+			"GoogleDriveFS.exe",
+			"Google Drive"
+		]
+	]
+}
